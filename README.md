@@ -1,5 +1,3 @@
-# 💫 About Me:
-# Hey there 👋<br><br>🔭 Working on AI assistants and chatbot projects<br><br>🌱 Currently learning AIML, NLP and Python<br><br>💬 Ask me about Python and beginner AI projects<br><br>⚡ Fun fact: I build random ideas into projects
 
 
 ## 🌐 Socials:
